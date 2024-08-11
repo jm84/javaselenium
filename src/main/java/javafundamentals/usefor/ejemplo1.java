@@ -3,7 +3,7 @@ package javafundamentals.usefor;
 public class ejemplo1 {
     public static void main(String[] args) {
 
-        final int n = 12;
+        final int n = 15;
         final var cont1=  contarValores(n);
         System.out.println(cont1);
     }
